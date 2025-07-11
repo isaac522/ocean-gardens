@@ -1,0 +1,224 @@
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+|          Welcome to Ocean Gardens!             |
+|  [About Section - Brief intro paragraph]       |
+---------------------------------------------------
+|             Coral Category Grid                |
+|  -------------------------------------------   |
+|  | [SPS Image] | [LPS Image] | [ZOAS Image] |   |
+|  |    SPS      |    LPS      |    ZOAS      |   |
+|  -------------------------------------------   |
+|  | [SOFTIES Image] | [NEMS Image]            |  |
+|  |    SOFTIES      |    NEMS                 |  |
+|  -------------------------------------------   |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+| [Icon] ACROPORA CARE                            |
+| Description paragraph                           |
+---------------------------------------------------
+|         [Full-Width Acropora Image]             |
+---------------------------------------------------
+| [Icon] LOCATION                                 |
+| Location description                            |
+---------------------------------------------------
+| [Icon] LIGHTING                                 |
+| Lighting details & PAR levels                   |
+|  - Low: X PAR                                   |
+|  - Medium: X PAR                                |
+|  - High: X PAR                                  |
+---------------------------------------------------
+| [Icon] WATER FLOW                               |
+| Water movement explanation                      |
+---------------------------------------------------
+| [Icon] FEEDING                                  |
+| Feeding strategy details                        |
+---------------------------------------------------
+|       [Full-Width Feeding Image]               |
+---------------------------------------------------
+| [Icon] PROPAGATION                              |
+| Propagation description                         |
+---------------------------------------------------
+| [Icon] A WORD OF CAUTION                        |
+| Warning notes                                   |
+---------------------------------------------------
+| [Icon] ACCLIMATION                              |
+| Acclimation tips                                |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+
+
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+| [Icon] LPS CORAL CARE                           |
+| LPS overview paragraph                          |
+---------------------------------------------------
+|         [Full-Width LPS Image]                  |
+---------------------------------------------------
+| [Icon] LOCATION                                 |
+| Habitat details                                 |
+---------------------------------------------------
+| [Icon] LIGHTING                                 |
+| PAR ranges for LPS corals                       |
+---------------------------------------------------
+| [Icon] WATER FLOW                               |
+| Moderate flow discussion                        |
+---------------------------------------------------
+| [Icon] FEEDING                                  |
+| LPS food suggestions                            |
+---------------------------------------------------
+|       [Full-Width Feeding Image]               |
+---------------------------------------------------
+| [Icon] PROPAGATION                              |
+| Fragging LPS tips                               |
+---------------------------------------------------
+| [Icon] A WORD OF CAUTION                        |
+| Notes on sweeper tentacles                     |
+---------------------------------------------------
+| [Icon] ACCLIMATION                              |
+| Light and water parameter acclimation           |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+
+
+
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+| [Icon] ZOANTHID CARE                            |
+| Overview of Zoas                               |
+---------------------------------------------------
+|         [Full-Width Zoas Image]                |
+---------------------------------------------------
+| [Icon] LOCATION                                 |
+| Indo-Pacific locations                         |
+---------------------------------------------------
+| [Icon] LIGHTING                                 |
+| Light flexibility, PAR chart                   |
+---------------------------------------------------
+| [Icon] WATER FLOW                               |
+| Moderate to indirect flow                      |
+---------------------------------------------------
+| [Icon] FEEDING                                  |
+| Occasional target feeding                      |
+---------------------------------------------------
+|     [Full-Width Feeding Image: zoasfeeding.jpg] |
+---------------------------------------------------
+| [Icon] PROPAGATION                              |
+| Easy fragging details                          |
+---------------------------------------------------
+| [Icon] A WORD OF CAUTION                        |
+| Palytoxin warning                              |
+---------------------------------------------------
+| [Icon] ACCLIMATION                              |
+| Drip acclimation instructions                  |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+
+
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+| [Icon] SOFT CORAL CARE                          |
+| Softie overview paragraph                       |
+---------------------------------------------------
+|       [Full-Width Softies Image]                |
+---------------------------------------------------
+| [Icon] LOCATION                                 |
+| Shallow & mid-depth reef environments          |
+---------------------------------------------------
+| [Icon] LIGHTING                                 |
+| Moderate light range                           |
+---------------------------------------------------
+| [Icon] WATER FLOW                               |
+| Gentle swaying current                         |
+---------------------------------------------------
+| [Icon] FEEDING                                  |
+| Organics, amino dosing                         |
+---------------------------------------------------
+|     [Full-Width Feeding Image: softiefeeding.jpg] |
+---------------------------------------------------
+| [Icon] PROPAGATION                              |
+| Toothpick/glue propagation                     |
+---------------------------------------------------
+| [Icon] A WORD OF CAUTION                        |
+| Chemical warfare mitigation                    |
+---------------------------------------------------
+| [Icon] ACCLIMATION                              |
+| Basic acclimation steps                        |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+
+
+
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|  [← Home]                          [Contact Us] |
+---------------------------------------------------
+| [Icon] ANEMONE CARE                             |
+| Overview paragraph about anemones               |
+---------------------------------------------------
+|       [Full-Width Anemone Image]               |
+---------------------------------------------------
+| [Icon] LOCATION                                 |
+| Indo-Pacific habitats                           |
+---------------------------------------------------
+| [Icon] LIGHTING                                 |
+| Higher PAR preferences                         |
+---------------------------------------------------
+| [Icon] WATER FLOW                               |
+| Moderate to strong, not direct                 |
+---------------------------------------------------
+| [Icon] FEEDING                                  |
+| Meaty food like mysis or silversides           |
+---------------------------------------------------
+|     [Full-Width Feeding Image: nemsfeeding.jpg] |
+---------------------------------------------------
+| [Icon] PROPAGATION                              |
+| Bubble Tip splitting                           |
+---------------------------------------------------
+| [Icon] A WORD OF CAUTION                        |
+| Wandering and coral stings                     |
+---------------------------------------------------
+| [Icon] ACCLIMATION                              |
+| 30–45 minute drip recommended                  |
+---------------------------------------------------
+|       © 2025 idraves@purdue.edu                |
+---------------------------------------------------
+
+
+
+---------------------------------------------------
+|                 Ocean Gardens                   |
+|           [← Back to Home] (top left)           |
+---------------------------------------------------
+|             Contact Form Header                |
+---------------------------------------------------
+|  [Name field]                                  |
+|  [Email field]                                 |
+|  [Subject field]                               |
+|  [Simple CAPTCHA field: 1 + 1 = ?]             |
+|  [Message textarea]                            |
+|  [SEND EMAIL button]                           |
+---------------------------------------------------
+|       © 2025 Ocean Gardens                     |
+|     idraves@purdue.edu / Isaac Draves          |
+---------------------------------------------------
+
+
+
+
