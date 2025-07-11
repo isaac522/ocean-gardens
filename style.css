@@ -1,3 +1,4 @@
+/* Adobe Color palette: blue coral ocean */
 :root {
   --bg: #e3f2fd;
   --primary: #0288d1;
@@ -44,12 +45,12 @@ header h1 {
   font-size: 1em;
 }
 
-/* About section */
-.about {
-  padding: 20px;
-  max-width: 800px;
+/* About and Info Sections - with side padding added */
+.about,
+.info {
+  padding: 20px 30px; /* adds horizontal space */
+  max-width: 1000px;
   margin: auto;
-  text-align: center;
   background-color: var(--accent);
   border-radius: 8px;
   margin-top: 10px;
@@ -203,7 +204,7 @@ section h2 {
   border-radius: 8px;
 }
 
-/* Full-width featured image */
+/* Full-width featured image (no side padding) */
 .wide-img {
   display: block;
   width: 100vw;
