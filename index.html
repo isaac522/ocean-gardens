@@ -1,64 +1,190 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>ocean gardens indexhome</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ocean Gardens</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Ocean Gardens | Coral Care and Reef Aquarium Guides</title>
+
+  <meta
+    name="description"
+    content="Explore coral care guides for SPS, LPS, zoanthids, soft corals, and anemones at Ocean Gardens."
+  >
+
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
   <header>
-    <h1>Ocean Gardens</h1>
-    <a class="contact-link" href="contact.html">Contact Us</a>
+    <div class="title-card">
+      <img
+        src="logo-placeholder.jpg"
+        alt="Ocean Gardens logo placeholder"
+        class="title-logo"
+      >
+
+      <div>
+        <h1>Ocean Gardens</h1>
+        <p>Coral care and reef aquarium information</p>
+      </div>
+    </div>
+
+    <nav aria-label="Main navigation">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="sps.html">SPS</a>
+      <a href="lps.html">LPS</a>
+      <a href="zoas.html">Zoas</a>
+      <a href="softies.html">Soft Corals</a>
+      <a href="nems.html">Anemones</a>
+      <a href="contact.html">Contact</a>
+    </nav>
   </header>
 
-  <section class="about">
-    <p>
-      Welcome to Ocean Gardens! This site is dedicated to coral enthusiasts of all experience levels.
-      We share the joy and responsibility of reef-keeping through helpful resources and vibrant coral galleries.
-      With the right care and husbandry, maintaining corals can be one of the most rewarding hobbies. Dive in and explore!
-    </p>
-  </section>
+  <main>
+    <section class="about" aria-labelledby="about-heading">
+      <h2 id="about-heading">Welcome to Ocean Gardens</h2>
 
-  <main class="grid-container">
-    <a href="sps.html" class="card">
-      <img src="sps.jpg" alt="SPS Corals">
-      <span>SPS</span>
-    </a>
-    <a href="lps.html" class="card">
-      <img src="lps.jpg" alt="LPS Corals">
-      <span>LPS</span>
-    </a>
-    <a href="zoas.html" class="card">
-      <img src="zoas.jpg" alt="Zoanthids">
-      <span>ZOAS</span>
-    </a>
-    <a href="softies.html" class="card">
-      <img src="softies.jpg" alt="Soft Corals">
-      <span>SOFTIES</span>
-    </a>
-    <a href="nems.html" class="card">
-      <img src="nems.jpg" alt="Anemones">
-      <span>NEMS</span>
-    </a>
+      <p>
+        Ocean Gardens is dedicated to coral enthusiasts of all experience levels.
+        This site shares helpful information about coral care, reef aquarium
+        maintenance, and responsible husbandry. With proper lighting, water flow,
+        stable water chemistry, and patience, keeping corals can be one of the
+        most rewarding aquarium hobbies.
+      </p>
+    </section>
+
+    <section aria-labelledby="coral-guides-heading">
+      <h2 id="coral-guides-heading">Explore Coral Guides</h2>
+
+      <div class="grid-container">
+        <a href="sps.html" class="card">
+          <img src="sps.jpg" alt="Colorful SPS coral colony">
+          <span>SPS Corals</span>
+        </a>
+
+        <a href="lps.html" class="card">
+          <img src="lps.jpg" alt="Large polyp stony coral">
+          <span>LPS Corals</span>
+        </a>
+
+        <a href="zoas.html" class="card">
+          <img src="zoas.jpg" alt="Colorful zoanthid coral polyps">
+          <span>Zoanthids</span>
+        </a>
+
+        <a href="softies.html" class="card">
+          <img src="softies.jpg" alt="Soft coral in a reef aquarium">
+          <span>Soft Corals</span>
+        </a>
+
+        <a href="nems.html" class="card">
+          <img src="nems.jpg" alt="Anemone in a saltwater aquarium">
+          <span>Anemones</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="care-table-section" aria-labelledby="comparison-heading">
+      <h2 id="comparison-heading">Coral Care Comparison</h2>
+
+      <table>
+        <caption>
+          General care needs for common coral groups
+        </caption>
+
+        <thead>
+          <tr>
+            <th scope="col">Coral Type</th>
+            <th scope="col">Lighting</th>
+            <th scope="col">Water Flow</th>
+            <th scope="col">Experience Level</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>SPS</td>
+            <td>High</td>
+            <td>Strong</td>
+            <td>Advanced</td>
+          </tr>
+
+          <tr>
+            <td>LPS</td>
+            <td>Moderate</td>
+            <td>Low to moderate</td>
+            <td>Intermediate</td>
+          </tr>
+
+          <tr>
+            <td>Zoanthids</td>
+            <td>Low to moderate</td>
+            <td>Moderate</td>
+            <td>Beginner</td>
+          </tr>
+
+          <tr>
+            <td>Soft Corals</td>
+            <td>Low to moderate</td>
+            <td>Low to moderate</td>
+            <td>Beginner</td>
+          </tr>
+
+          <tr>
+            <td>Anemones</td>
+            <td>Moderate to high</td>
+            <td>Moderate</td>
+            <td>Intermediate</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="resources" aria-labelledby="resources-heading">
+      <h2 id="resources-heading">External Reef Resources</h2>
+
+      <ul>
+        <li>
+          <a
+            href="https://www.reef2reef.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Reef2Reef aquarium community
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.bulkreefsupply.com/content"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Bulk Reef Supply educational resources
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.advancedaquarist.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Advanced Aquarist articles
+          </a>
+        </li>
+      </ul>
+    </section>
   </main>
 
   <footer>
-    © 2025 idraves@purdue.edu / Isaac Draves
+    <p>
+      &copy; 2026 Ocean Gardens |
+      <a href="mailto:idraves@purdue.edu">idraves@purdue.edu</a>
+      | Isaac Draves
+    </p>
   </footer>
-</body>
-</html>
-<!-- partial -->
-  
+
 </body>
 </html>
