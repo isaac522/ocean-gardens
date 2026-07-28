@@ -1,57 +1,113 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>ocean gardens contact</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Contact Us - Ocean Gardens</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact | Ocean Gardens</title>
+
+    <meta name="description" content="Contact Ocean Gardens with questions about reef aquariums, corals, and saltwater fish care.">
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-  <header>
+<header>
     <h1>Ocean Gardens</h1>
-    <a href="index.html" class="contact-link">← Back to Home</a>
-  </header>
 
-  <div class="contact-form-container">
-    <h2>Contact Form</h2>
-    <form action="#" method="POST">
-      <label for="name">Your Name</label>
-      <input type="text" id="name" name="name" placeholder="Your Name" required />
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sps.html">SPS</a>
+        <a href="lps.html">LPS</a>
+        <a href="zoas.html">Zoas</a>
+        <a href="softies.html">Soft Corals</a>
+        <a href="nems.html">Anemones</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
 
-      <label for="email">Your Email</label>
-      <input type="email" id="email" name="email" placeholder="Your Email" required />
+<main>
 
-      <label for="subject">Email Subject</label>
-      <input type="text" id="subject" name="subject" placeholder="Email Subject" required />
+<div class="contact-form-container">
 
-      <label for="captcha">1 + 1 =</label>
-      <input type="text" id="captcha" name="captcha" placeholder="Correct Response" required />
+    <h2>Contact Us</h2>
 
-      <label for="message">Your Message</label>
-      <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+    <p>
+        Have a question about reef aquariums or coral care?
+        Fill out the form below and we'll be happy to help.
+    </p>
 
-      <button type="submit">SEND EMAIL</button>
+    <form id="contact-form" novalidate>
+
+        <label for="name">Your Name</label>
+        <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Your Name"
+            minlength="2"
+            maxlength="50"
+            required
+        >
+
+        <label for="email">Your Email</label>
+        <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Your Email"
+            maxlength="100"
+            required
+        >
+
+        <label for="subject">Email Subject</label>
+        <input
+            type="text"
+            id="subject"
+            name="subject"
+            placeholder="Subject"
+            maxlength="100"
+            required
+        >
+
+        <label for="captcha">Security Question: 1 + 1 =</label>
+        <input
+            type="number"
+            id="captcha"
+            name="captcha"
+            placeholder="Answer"
+            required
+        >
+
+        <label for="message">Your Message</label>
+
+        <textarea
+            id="message"
+            name="message"
+            rows="6"
+            maxlength="1000"
+            placeholder="Your Message"
+            required
+        ></textarea>
+
+        <button type="submit">Send Message</button>
+
+        <p id="form-status"></p>
+
     </form>
-  </div>
 
-  <footer>
-    &copy; 2025 Ocean Gardens | idraves@purdue.edu / Isaac Draves
-  </footer>
+</div>
 
-</body>
-</html>
-<!-- partial -->
-  
+</main>
+
+<footer>
+    &copy; 2025 Ocean Gardens |
+    <a href="mailto:idraves@purdue.edu">idraves@purdue.edu</a>
+    | Isaac Draves
+</footer>
+
+<script src="script.js"></script>
+
 </body>
 </html>
